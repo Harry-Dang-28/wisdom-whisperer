@@ -28,8 +28,3 @@
 | 9   | Calendar                |                                                       |
 | 10  | Templater               | Better template create (a bit hard for normal)        |
 | 11  | Update time on edit     | **Bonus** display update time of a note in Properties |
-
-## Left Sidebar
-![Pasted image 20240509182238.png](/img/user/300%20Extras/310%20Attachment/Pasted%20image%2020240509182238.png)
-## Right Sidebar
-![Pasted image 20240509182253.png](/img/user/300%20Extras/310%20Attachment/Pasted%20image%2020240509182253.png)
