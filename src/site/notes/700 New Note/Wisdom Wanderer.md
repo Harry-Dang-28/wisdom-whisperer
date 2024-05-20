@@ -3,13 +3,9 @@
 ---
 
 # Homepage
-| File                                                                   | tags                         | alisases |
-| ---------------------------------------------------------------------- | ---------------------------- | -------- |
-| [[700 New Note/CSS full checklist\|CSS full checklist]]             | <ul><li>CSS/Global</li></ul> | \-       |
-| [[700 New Note/DATAVIEWJS\|DATAVIEWJS]]                             | \-                           | \-       |
-| [[700 New Note/+Latex\|+Latex]]                                     | \-                           | \-       |
-| [[700 New Note/File Stat\|File Stat]]                               | \-                           | \-       |
-| [[700 New Note/How to setup a new vault\|How to setup a new vault]] | \-                           | \-       |
+| File                                                                                                                              | tags                                          | alisases |
+| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------- |
+| [[Obsidian Public/Table Styling - Active Cell -Highlight - Hover table\|Table Styling - Active Cell -Highlight - Hover table]] | <ul><li>Manual/Obsidian/CSS-snippet</li></ul> | \-       |
 
 { .block-language-dataview}
 
