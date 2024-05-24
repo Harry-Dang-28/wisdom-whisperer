@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-public/how-to-setup-a-new-vault/"}
+{"dg-publish":true,"permalink":"/obsidian-public/how-to-setup-a-new-vault/","tags":["Manual/Obsidian/Basic"]}
 ---
 
 # Basic Setup
