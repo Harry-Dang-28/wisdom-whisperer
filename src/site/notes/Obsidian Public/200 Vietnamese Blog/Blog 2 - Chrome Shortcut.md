@@ -46,6 +46,12 @@
 
 ![](https://i.imgur.com/doUQstz.png)
 
+> [!note] Audio UI
+> 
+
+![](https://i.imgur.com/KAVXAtJ.gif)
+
+
 Bonus: Dành cho bạn nào dùng Extension thường xuyên thì chúng ta có thể tự gắn phím tắt để kích hoạt nhanh Extension: Truy cập chrome://extensions/shortcuts và click vào icon bút để thêm phím tắt
 
 ![](https://i.imgur.com/WD7QzIk.png)
