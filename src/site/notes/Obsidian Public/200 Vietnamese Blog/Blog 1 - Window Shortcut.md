@@ -40,6 +40,8 @@ Chúc các bạn buổi tối vui vẻ!
 Dành cho bạn nào chưa biết cách ghim thì minh họa như trong ảnh
 Win + 1 tới 9 để mở theo thứ tự trên thanh taskbar
 
+![](https://i.imgur.com/WqbmpUm.png)
+
 ## Tự tay tạo phím tắt cho riêng mình
 Đặc điểm: Áp dụng cho app, folder hay file
 Bước 1: Click chuột phải và chọn Create Shortcut/ WIn 11: More Option => Create Shortcut
