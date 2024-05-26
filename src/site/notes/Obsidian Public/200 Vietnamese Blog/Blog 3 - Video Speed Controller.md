@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-public/200-vietnamese-blog/blog-3-video-speed-controller/"}
 ---
 
-# Blog 3 - Video Speed Controller
+
 Hôm nay mình sẽ giới thiệu 1 cái extension mà mình dùng rất nhiều - Video Speed Controller
 
 Các bạn đã bao giờ cảm thấy tốc độ của một video chậm quá và muốn tua nhanh chưa? Chắc hẳn là không ít lần các bạn đã phải mở cái setting của youtube lên và chỉnh tốc độ phải không?
