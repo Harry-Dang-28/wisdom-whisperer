@@ -52,9 +52,9 @@ Custom app Startup
 | File                                                                                                                                              | tags                                                                  | alisases |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------- |
 | [[Obsidian Public/100 CSS Snippet/+ Obsidian CSS Introduction\|+ Obsidian CSS Introduction]]                                                   | \-                                                                    | \-       |
-| [[Obsidian Public/100 CSS Snippet/Table Styling - Active Cell -Highlight - Hover table\|Table Styling - Active Cell -Highlight - Hover table]] | \-                                                                    | \-       |
 | [[Obsidian Public/100 CSS Snippet/+ Obsidian Snippet Instruction\|+ Obsidian Snippet Instruction]]                                             | <ul><li>Manual/Obsidian/CSS-snippet</li></ul>                         | \-       |
 | [[Obsidian Public/100 CSS Snippet/+ Obsidian Sample Theme\|+ Obsidian Sample Theme]]                                                           | <ul><li>Manual/Obsidian</li><li>Manual/Obsidian/CSS-snippet</li></ul> | \-       |
+| [[Obsidian Public/100 CSS Snippet/Table Styling - Active Cell -Highlight - Hover table\|Table Styling - Active Cell -Highlight - Hover table]] | \-                                                                    | \-       |
 
 { .block-language-dataview}
 
